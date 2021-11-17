@@ -1,0 +1,49 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-color: #000000;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-image: url(/img/bitcoin-g79b3105c5_1920.jpg);
+}
+
+.container {
+  text-align: center;
+  padding: 80px;
+  height: 50vh;
+  
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 10 0 5px;
+  font-size: 50px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+
+input {
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+}
+
+label {
+  color: rgb(255, 255, 255);
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+}
